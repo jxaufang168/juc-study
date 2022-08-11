@@ -1,0 +1,72 @@
+# Maven (examples)
+target
+dependency-reduced-pom.xml
+
+# IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings
+bin
+logs
+
+# OS X
+.DS_Store
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+
+!**/src/main/**
+!**/src/test/**
+
+target
+bin
+bak
+.pmd
+.project
+.settings
+.classpath
+.idea.xml
+.idea
+*.class
+*.bak
+*.iml
+*.ipr
+*.iws
+bak
+null/
+tree.log
+tmp/
+velocity.log
+.DS_Store
+logs
+.m2
+
+# gradle related ignore in sub directories
+.gradle
+build
+out
+
+rebel.xml
